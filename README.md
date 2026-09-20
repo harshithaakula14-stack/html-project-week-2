@@ -1,1 +1,1 @@
-# html-project-week-2
+# wt-project-week-2
